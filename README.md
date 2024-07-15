@@ -1,1 +1,1 @@
-# password-cracker
+# educational-purposes-only
